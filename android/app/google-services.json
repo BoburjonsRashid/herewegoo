@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "507784702917",
+    "project_id": "herewego-9efda",
+    "storage_bucket": "herewego-9efda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507784702917:android:9204d137ca8056b34ff9ac",
+        "android_client_info": {
+          "package_name": "com.example.herewego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507784702917-5f058dlaoa9ltb1gdv43m9gongugf2j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5fSUKGpmlwym7oNMooPUdixcoma9G-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507784702917-5f058dlaoa9ltb1gdv43m9gongugf2j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507784702917-3vphd6necgcq7pm9s1h9kgvsij807bjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.herewego"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507784702917:android:e9b0f707c56881df4ff9ac",
+        "android_client_info": {
+          "package_name": "com.example.herewegoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507784702917-5f058dlaoa9ltb1gdv43m9gongugf2j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5fSUKGpmlwym7oNMooPUdixcoma9G-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507784702917-5f058dlaoa9ltb1gdv43m9gongugf2j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "507784702917-3vphd6necgcq7pm9s1h9kgvsij807bjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.herewego"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
